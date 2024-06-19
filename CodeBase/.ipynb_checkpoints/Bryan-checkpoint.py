@@ -10,3 +10,6 @@ def ordenar_asc(clases):
         clases[i], clases[min_idx] = clases[min_idx], clases[i]         
 
     return clases
+#se corrigio el ejercicio
+
+
